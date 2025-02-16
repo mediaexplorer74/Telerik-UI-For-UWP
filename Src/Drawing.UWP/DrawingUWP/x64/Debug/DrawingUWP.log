@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  D2DBrush.cpp
+  D2DCanvas.cpp
+  D2DGeometryShape.cpp
+  D2DLine.cpp
+  D2DMultiPolygon.cpp
+  D2DPolyline.cpp
+  D2DRectangle.cpp
+  D2DRenderContext.cpp
+  D2DResource.cpp
+  D2DShape.cpp
+  D2DShapeContainer.cpp
+  D2DShapeLayer.cpp
+  D2DShapeStyle.cpp
+  D2DSolidColorBrush.cpp
+  D2DTextBlock.cpp
+  D2DTextStyle.cpp
+  D3DResources.cpp
+     Creating library bin\x64\Debug\Telerik.UI.Drawing.lib and object bin\x64\Debug\Telerik.UI.Drawing.exp
+  DrawingUWP.vcxproj -> C:\Users\Admin\source\repos\mediaexplorer74\Telerik-UI-For-UWP\Src\Drawing.UWP\DrawingUWP\bin\x64\Debug\Telerik.UI.Drawing.dll
